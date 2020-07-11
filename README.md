@@ -39,18 +39,3 @@
 - [`C++`](https://github.com/mhashim6?tab=repositories&language=c%2B%2B) • [`x86_assembly`](https://github.com/mhashim6?tab=repositories&language=assembly) _(Basic knowledge)_
 
 - [`Haskell`](https://github.com/mhashim6?tab=repositories&language=haskell) _(Just for toying with Pure Functional Programming)_
-
----
-
-## Education
-  
-**BSc, Computer and Systems Engineering**; Zagazig University | 2015-2020
-
-### Courses and Certifications
-
-- Associate Android Developer (Kotlin) – **Google**
-- iOS Swift 5 Specialization (4 courses) – **Coursera**
-- React/ React Native Nanodegree – **Udacity**
-- Software Product Management Specialization (5 courses) – **Coursera**
-- XDA Recognized Developer – **[xda-developers.com](xda-developers.com)**
-- CCNA, CCNP, Internet Security Fundamentals – **Information Technology Institute (ITI)**
