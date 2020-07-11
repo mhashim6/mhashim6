@@ -7,27 +7,6 @@
 
 ![avatar][1]
 
-## Experience
-
-**Software Engineer, Medicibe** | 2018-2020
-
-I developed the company's Bonus app for Android, iOS and web with Java, Kotlin & React. As well as internal tools for the company
-
-- [`Bonus – Pharmacist Calculator`](https://bonus.medicibe.com/) (PWA/React)
-
-- [`Bonus – Pharmacist Calculator`](https://play.google.com/store/apps/details?id=com.medicibe.bonus) (Android/Kotlin)
-
-**Freelance Mobile App Developer** | 2017-2020
-
-I wrote trending apps on Google Play for various clients using Kotlin & Java \
-I also write trending Google Play apps by the name of `mhashim6`
-
-- [`Rafeeq Al-Hajj`](https://play.google.com/store/apps/details?id=com.kaf.hajjcompanion) (Android/Kotlin)
-
-- [`Al-Sahihan`](https://play.google.com/store/apps/details?id=mhashim6.android.thetwoauthentics) (Android/Java)
-
-- [`Put-Back`](https://play.google.com/store/apps/details?id=mhashim6.android.putback) (Android/Kotlin)
-
 ### Side Projects
 
 - `Canesee` (Graduation project) – Lead Software Architect, Android Lead | _WIP_
@@ -45,15 +24,13 @@ I also write trending Google Play apps by the name of `mhashim6`
 
   > A kotlin compiler for the Lox programming language
 
-<div style="page-break-after: always;"></div>
-
 ### Open Source Contributions
 
 - `PysceneDetect`
 
   > [Live detection](https://github.com/Breakthrough/PySceneDetect/pull/151) for changing scenes in videos
 
-### Programming Languages
+### Programming Languages _(click-able)_
 
 - [`Kotlin`](https://github.com/mhashim6?tab=repositories&language=kotlin) • [`Java`](https://github.com/mhashim6?tab=repositories&language=java) • [`Swift`](https://github.com/mhashim6?tab=repositories&language=swift) • [`JavaScript`](https://github.com/mhashim6?tab=repositories&language=javascript) • [`Python`](https://github.com/mhashim6?tab=repositories&language=python) • [`C`](https://github.com/mhashim6?tab=repositories&language=c)
 
