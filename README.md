@@ -2,10 +2,12 @@
 
 > I'm a Software Engineer with many hats, metaphorically and literally. \
 >  I develop (professionally) for **React**, **Android**, and **iOS**. \
->  But, like I said, I have many hats. \
+>  But, like I said, I have many hats ¯\\_(ツ)_/¯ \
 >  [`Website`](http://mhashim6.me) • [`LinkedIn`](https://www.linkedin.com/in/mhashim6/) • [`DEV.to`](https://dev.to/mhashim6) • [`msg@mhashim6.me`](mailto:msg@mhashim6.me)
 
-![avatar][1]
+<div>
+<img src="https://mhashim6.me/avatar.png" alt='avatar' width="250" height="250"/>
+</div>
 
 ### Side Projects
 
@@ -41,7 +43,7 @@
 ---
 
 ## Education
-
+  
 **BSc, Computer and Systems Engineering**; Zagazig University | 2015-2020
 
 ### Courses and Certifications
@@ -52,5 +54,3 @@
 - Software Product Management Specialization (5 courses) – **Coursera**
 - XDA Recognized Developer – **[xda-developers.com](xda-developers.com)**
 - CCNA, CCNP, Internet Security Fundamentals – **Information Technology Institute (ITI)**
-
-[1]: https://mhashim6.me/avatar.png
