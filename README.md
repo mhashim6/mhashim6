@@ -1,5 +1,3 @@
-# Muhammad Hashim
-
 > I'm a Software Engineer with many hats, metaphorically and literally. \
 >  I develop (professionally) for **React**, **Android**, and **iOS**. \
 >  But, like I said, I wear many hats ¯\\_(ツ)_/¯ \
