@@ -30,11 +30,11 @@
 
 ### Open Source Contributions
 
-- `PysceneDetect`
+- [`PysceneDetect`](https://pyscenedetect.readthedocs.io/en/stable/)
 
   > [Live detection](https://github.com/Breakthrough/PySceneDetect/pull/151) for changing scenes in videos
 
-### Languages _(click-able)_
+### Languages <i style="font-size: small;">(click-able)</i>
 
 - [`Kotlin`](https://github.com/mhashim6?tab=repositories&language=kotlin) • [`Java`](https://github.com/mhashim6?tab=repositories&language=java) • [`Swift`](https://github.com/mhashim6?tab=repositories&language=swift) • [`JavaScript`](https://github.com/mhashim6?tab=repositories&language=javascript) • [`Python`](https://github.com/mhashim6?tab=repositories&language=python) • [`C`](https://github.com/mhashim6?tab=repositories&language=c)
 
