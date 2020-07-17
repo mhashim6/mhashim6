@@ -3,7 +3,7 @@
 >  But, like I said, I wear many hats ¯\\_(ツ)_/¯ \
 >  [`Website`](http://mhashim6.me) • [`LinkedIn`](https://www.linkedin.com/in/mhashim6/) • [`DEV.to`](https://dev.to/mhashim6) • [`msg@mhashim6.me`](mailto:msg@mhashim6.me)
 
-### Hobby Projects
+### Side Projects
 
 - [`Canesee`](https://github.com/canesee-project) (Graduation project) – Lead Software Architect, Android Lead
 
