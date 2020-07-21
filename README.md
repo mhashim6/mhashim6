@@ -27,6 +27,10 @@
 - [`Open Hadith Data`](https://github.com/mhashim6/Open-Hadith-Data)
 
   > The full, open Hadith Library
+  
+ - [`Simple ADB`](https://github.com/mhashim6/Simple-ADB)
+
+  > The #1 ADB/Fastboot GUI Client
 
 ### Open Source Contributions
 
