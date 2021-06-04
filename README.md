@@ -1,5 +1,5 @@
 > I'm a Software Engineer with many hats, metaphorically and literally. \
->  I develop (professionally) for **React**, **Android**, and **iOS**. \
+>  I develop (professionally) for **Web**, **Android**, and **iOS**. \
 >  But, like I said, I wear many hats ¯\\_(ツ)_/¯ \
 >  [`Website`](http://mhashim6.me) • [`LinkedIn`](https://www.linkedin.com/in/mhashim6/) • [`DEV.to`](https://dev.to/mhashim6) • [`msg@mhashim6.me`](mailto:msg@mhashim6.me)
 
