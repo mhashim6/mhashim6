@@ -4,7 +4,7 @@
 
 ### Side Projects
 
-- [`Canesee`](https://github.com/canesee-project) (Graduation project) – Lead Software Architect, Android Lead
+- [`Canesee`](https://github.com/canesee-project) (Graduation project) – Software Architect, Android Lead
 
   > Smart glasses and cane for the blind. \
   > Recoginses faces, texts, scenery, and emotions; \
