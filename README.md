@@ -11,8 +11,6 @@
   > Uses ultrasonic sensors to detect obstacles.
   > (**TensorFlow**, **Android/kotlin**, **Raspberry Pi**, **Arduino**)
 
-- [`Open Quran Learning Platform`](https://github.com/Open-Quran-Learning) – Scrum Master, React Developer
-
   > Online platform for remotely teaching and reciting the Quran (**React**, **Flask**, **PostgreSQL**)
 
 - [`KLox`](https://github.com/mhashim6/klox)
