@@ -11,8 +11,6 @@
   > Uses ultrasonic sensors to detect obstacles.
   > (**TensorFlow**, **Android/kotlin**, **Raspberry Pi**, **Arduino**)
 
-  > Online platform for remotely teaching and reciting the Quran (**React**, **Flask**, **PostgreSQL**)
-
 - [`KLox`](https://github.com/mhashim6/klox)
 
   > A kotlin compiler for the Lox programming language
@@ -28,6 +26,7 @@
  - [`Simple ADB`](https://github.com/mhashim6/Simple-ADB)
 
   > The #1 ADB/Fastboot GUI Client
+
 
 ### Open Source Contributions
 
