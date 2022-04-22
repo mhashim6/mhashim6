@@ -2,7 +2,7 @@
 
 [`Website`](http://mhashim6.me) • [`LinkedIn`](https://www.linkedin.com/in/mhashim6/) • [`DEV.to`](https://dev.to/mhashim6) • [`msg@mhashim6.me`](mailto:msg@mhashim6.me)
 
-### Side Projects
+### Picked Side Projects
 
 - [`Canesee`](https://github.com/canesee-project) (Graduation project) – Software Architect, Android Lead
 
@@ -10,25 +10,13 @@
   > Recoginses faces, texts, scenery, and emotions; \
   > Uses ultrasonic sensors to detect obstacles.
   > (**TensorFlow**, **Android/kotlin**, **Raspberry Pi**, **Arduino**)
-
-- [`KLox`](https://github.com/mhashim6/klox)
-
-  > A kotlin compiler for the Lox programming language
-
-- [`Pi4K`](https://github.com/mhashim6/pi4k)
-
-  > Pi4J Kotlin bindings for the Raspberry Pi GPIO
   
-- [`Open Hadith Data`](https://github.com/mhashim6/Open-Hadith-Data)
-
-  > The full, open Hadith Library
-  
- - [`Simple ADB`](https://github.com/mhashim6/Simple-ADB)
+- [`Simple ADB`](https://github.com/mhashim6/Simple-ADB)
 
   > The #1 ADB/Fastboot GUI Client
 
 
-### Open Source Contributions
+### Picked Open Source Contributions
 
 - [`PysceneDetect`](https://pyscenedetect.readthedocs.io/en/stable/)
 
