@@ -1,3 +1,5 @@
+<img width="200px" src="https://mhashim6.me/logo.png"/>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23ceaa37&width=420&height=60&lines=Heared+you+of+The+Unhappy+Folk%3F;Or+The+Upside-Down+Tree%3F;Clear++your+mind%2C+and+you'll+see...)](https://mhashim6.me)
 
 [`Website`](https://mhashim6.me) • [`LinkedIn`](https://www.linkedin.com/in/mhashim6/) • [`Blog`](https://blog.mhashim6.me) • [`The Unhappy Folk`](https://blog.unhappyfolk.org) • [`msg@mhashim6.me`](mailto:msg@mhashim6.me)
