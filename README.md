@@ -1,4 +1,6 @@
-<img width="200px" src="https://mhashim6.me/timeless_clock_animated.svg"/>
+<p align="center">
+    <img width="200px" src="https://mhashim6.me/timeless_clock_animated.svg"/>
+</p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23ceaa37&width=420&height=60&lines=Heared+you+of+The+Unhappy+Folk%3F;Or+The+Upside-Down+Tree%3F;Clear++your+mind%2C+and+you'll+see...)](https://mhashim6.me)
 
