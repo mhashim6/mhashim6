@@ -13,7 +13,7 @@
     </path>
     <text font-family='"monospace", monospace' fill='#ceaa37' font-size='20'
         dominant-baseline='auto'
-        x='0%' text-anchor='start'>
+        x='50%' text-anchor='middle'>
         <textPath xlink:href='#path0'>
             Heared you of The Unhappy Folk?
         </textPath>
@@ -26,7 +26,7 @@
     </path>
     <text font-family='"monospace", monospace' fill='#ceaa37' font-size='20'
         dominant-baseline='auto'
-        x='0%' text-anchor='start'>
+        x='50%' text-anchor='middle'>
         <textPath xlink:href='#path1'>
             Or The Upside-Down Tree?
         </textPath>
@@ -39,7 +39,7 @@
     </path>
     <text font-family='"monospace", monospace' fill='#ceaa37' font-size='20'
         dominant-baseline='auto'
-        x='0%' text-anchor='start'>
+        x='50%' text-anchor='middle'>
         <textPath xlink:href='#path2'>
             Clear  your mind, and you&#039;ll see...
         </textPath>
