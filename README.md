@@ -27,6 +27,10 @@
 - [`PysceneDetect`](https://pyscenedetect.readthedocs.io/en/stable/)
 
   > [Live detection](https://github.com/Breakthrough/PySceneDetect/pull/151) for changing scenes in videos
+  
+- [`Pi4J/pi4j-kotlin`](https://github.com/Pi4J/pi4j-kotlin)
+  > Kotlin for the Raspberry Pi
+
 
 ### Languages <i style="font-size: small;">(click-able)</i>
 
@@ -35,3 +39,5 @@
 - [`C++`](https://github.com/mhashim6?tab=repositories&language=c%2B%2B) • [`x86_assembly`](https://github.com/mhashim6?tab=repositories&language=assembly) _(Basic knowledge)_
 
 - [`Haskell`](https://github.com/mhashim6?tab=repositories&language=haskell) _(Just for toying with Pure Functional Programming)_
+
+![Contributions graph](https://activity-graph.herokuapp.com/graph?username=mhashim6&bg_color=ffffff&color=cd8a56&line=cd8a56&point=03d3d&area=true&custom_title=%20)
