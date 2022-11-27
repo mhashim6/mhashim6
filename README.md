@@ -16,7 +16,11 @@
   > Recoginses faces, texts, scenery, and emotions; \
   > Uses ultrasonic sensors to detect obstacles.
   > (**TensorFlow**, **Android/kotlin**, **Raspberry Pi**, **Arduino**)
-  
+
+- [`KloX`](https://github.com/mhashim6/klox)
+
+  > A Kotlin Compiler for the Lox Programming Language
+ 
 - [`Simple ADB`](https://github.com/mhashim6/Simple-ADB)
 
   > The #1 ADB/Fastboot GUI Client
@@ -24,12 +28,11 @@
 
 ### Picked Open Source Contributions
 
-- [`PysceneDetect`](https://pyscenedetect.readthedocs.io/en/stable/)
-
-  > [Live detection](https://github.com/Breakthrough/PySceneDetect/pull/151) for changing scenes in videos
-  
 - [`Pi4J/pi4j-kotlin`](https://github.com/Pi4J/pi4j-kotlin)
   > Kotlin for the Raspberry Pi
+
+- [`PysceneDetect`](https://pyscenedetect.readthedocs.io/en/stable/)
+  > [Live detection](https://github.com/Breakthrough/PySceneDetect/pull/151) for changing scenes in videos
 
 
 ### Languages <i style="font-size: small;">(click-able)</i>
