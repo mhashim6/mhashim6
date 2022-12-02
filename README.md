@@ -42,5 +42,3 @@
 - [`C++`](https://github.com/mhashim6?tab=repositories&language=c%2B%2B) • [`x86_assembly`](https://github.com/mhashim6?tab=repositories&language=assembly) _(Basic knowledge)_
 
 - [`Haskell`](https://github.com/mhashim6?tab=repositories&language=haskell) _(Just for toying with Pure Functional Programming)_
-
-![Contributions graph](https://activity-graph.herokuapp.com/graph?username=mhashim6&bg_color=ffffff0&color=cd8a56&line=cd8a56&point=03d3d&area=true&hide_border=true&custom_title=%20)
