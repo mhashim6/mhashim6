@@ -8,6 +8,15 @@
 
 [`Website`](https://mhashim6.me) • [`LinkedIn`](https://www.linkedin.com/in/mhashim6/) • [`Blog`](https://blog.mhashim6.me) • [`The Unhappy Folk`](https://blog.unhappyfolk.org) • [`msg@mhashim6.me`](mailto:msg@mhashim6.me)
 
+
+### Picked Open Source Contributions
+
+- [`Pi4J/pi4j-kotlin`](https://github.com/Pi4J/pi4j-kotlin)
+  > Kotlin for the Raspberry Pi
+
+- [`PysceneDetect`](https://pyscenedetect.readthedocs.io/en/stable/)
+  > [Live detection](https://github.com/Breakthrough/PySceneDetect/pull/151) for changing scenes in videos
+
 ### Picked Side Projects
 
 - [`Canesee`](https://github.com/canesee-project) (Graduation project) – Software Architect, Android Lead
@@ -24,15 +33,6 @@
 - [`Simple ADB`](https://github.com/mhashim6/Simple-ADB)
 
   > The #1 ADB/Fastboot GUI Client
-
-
-### Picked Open Source Contributions
-
-- [`Pi4J/pi4j-kotlin`](https://github.com/Pi4J/pi4j-kotlin)
-  > Kotlin for the Raspberry Pi
-
-- [`PysceneDetect`](https://pyscenedetect.readthedocs.io/en/stable/)
-  > [Live detection](https://github.com/Breakthrough/PySceneDetect/pull/151) for changing scenes in videos
 
 
 ### Languages <i style="font-size: small;">(click-able)</i>
