@@ -6,9 +6,6 @@
     </p>
 </a>
 
-[`Website`](https://mhashim6.me) • [`LinkedIn`](https://www.linkedin.com/in/mhashim6/) • [`Blog`](https://blog.mhashim6.me) • [`The Unhappy Folk`](https://blog.unhappyfolk.org) • [`msg@mhashim6.me`](mailto:msg@mhashim6.me)
-
-
 ### Picked Open Source Contributions
 
 - [`Pi4J/pi4j-kotlin`](https://github.com/Pi4J/pi4j-kotlin)
