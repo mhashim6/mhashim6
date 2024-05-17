@@ -11,7 +11,7 @@
 - [`Pi4J/pi4j-kotlin`](https://github.com/Pi4J/pi4j-kotlin)
   > Kotlin for the Raspberry Pi
 
-- [`PysceneDetect`](https://pyscenedetect.readthedocs.io/en/stable/)
+- [`PysceneDetect`](https://www.scenedetect.com/)
   > [Live detection](https://github.com/Breakthrough/PySceneDetect/pull/151) for changing scenes in videos
 
 ### Picked Side Projects
